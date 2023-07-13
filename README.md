@@ -1,1 +1,1 @@
-A repo for going through the exercises of Andrej Karpathy's NN Zero to Hero mini course
+A repo for going through the exercises of Andrej Karpathy's NN Zero to Hero mini course (https://www.youtube.com/watch?v=VMj-3S1tku0&list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ&index=2&ab_channel=AndrejKarpathy)
